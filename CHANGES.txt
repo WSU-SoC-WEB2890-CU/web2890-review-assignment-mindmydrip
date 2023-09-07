@@ -1,1 +1,12 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1. I removed the Trusted By section because it doesn't make sense for my portfolio at this point in time
+2. Listed my web dev skills that I feel condfident in.
+3. Removed Testimonials section due to not having any.
+4. I only have 2 current projects up for display so I changed the layout to make it look better when showing my projects.
+5. I made the text of my portfolio sites link to the actual sites.
+6. Increased image size to make more impactful.
+7. Change main icon to something that went better with the theme.
+8. Added message that pops up in the get started submit button.
+9. Added an about me section that goes over education, personal life and hobbies using bootstrap cards.
+10. Added card group with responsiveness to work smoothly when resizing screen.
